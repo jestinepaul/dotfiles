@@ -159,4 +159,8 @@ XTerm*color14 : #34E2E2
 XTerm*color7  : #D3D7CF
 XTerm*color15 : #EEEEEC
 
+URxvt*inheritPixmap: true
+URxvt*transparent: true
+! URxvt*shading: 0 to 99 darkens, 101 to 200 lightens
+URxvt*shading: 80
 
