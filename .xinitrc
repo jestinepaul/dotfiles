@@ -50,4 +50,7 @@ fi
 
 # /usr/bin/VBoxClient-all
 
+# feh --bg-scale /path/to/image.file
+sh ~/.fehbg &
+
 exec i3
